@@ -29,9 +29,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='![tipApp](https://user-images.githubusercontent.com/62624769/184060211-9d0b6c88-72bb-443a-ad6e-9065abad6d69.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/pDx5fA7' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 

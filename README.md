@@ -29,16 +29,18 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/gallery/pDx5fA7.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/UwZ95uD.gif)
+
 
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+    This is my first time working on an iOS APP, one of the main challegenges come across with was getting to know the different levels and working with lavels. Another challenege I come across with was connecting the Soryboard Elements to the ViewControler but after couple of try I got it done. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2022 Jose Moreno Reyes
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -51,3 +53,4 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
